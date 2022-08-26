@@ -6,7 +6,7 @@ In this mini-project for module 2, we were given a PDF template of a CSS Cheatsh
 This project also includes different selection background and box transition glow on hover (as seen in screenshot below).
 
 ## Live Page
-[Live Page](mbronstein1.github.io/CSS-Cheatsheet-Mini-Project-2)
+[Live Page](https://mbronstein1.github.io/CSS-Cheatsheet-Mini-Project-2/)
 
 ## Screenshot of Templates
 ![Desktop Template](./assets/Images/01-app-desktop.png)
