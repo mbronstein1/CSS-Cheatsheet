@@ -9,6 +9,11 @@ This project also includes different selection background and box transition glo
 [Live Page](https://mbronstein1.github.io/CSS-Cheatsheet-Mini-Project-2/)
 
 ## Screenshot of Templates
+### Desktop Template
 ![Desktop Template](./assets/Images/01-app-desktop.png)
+
+### Tablet Template
 ![Tablet Template](./assets/Images/02-app-tablet.png)
+
+### Mobile Template
 ![Mobile Template](./assets/Images/03-app-mobile.png)
